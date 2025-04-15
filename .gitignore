@@ -1,5 +1,4 @@
 .venv
-src
 tests
 poetry.lock
 data
